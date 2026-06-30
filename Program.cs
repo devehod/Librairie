@@ -10,7 +10,7 @@ DateOnly[] holidayDates = [
 	new(2027, 5, 3),   // Early May bank holiday
 	new(2027, 5, 31),  // Spring bank holiday
 	new(2027, 8, 30),  // Summer bank holiday
-	new(2027, 09, 15), // Tabaski
+	new(2027, 09, 15), // Tabaski 2027
 	new(2027, 12, 26), // Boxing Day 
     new(2027, 12, 26) // Boxing Day 
 ];
